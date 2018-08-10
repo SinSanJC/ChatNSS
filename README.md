@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ejercicio de chat en ruby on rails.
 
-Things you may want to cover:
+Versiones:
 
-* Ruby version
+* Ruby 2.2.6p396
 
-* System dependencies
+* Rails 5.0.7
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* SQLite
